@@ -35,17 +35,16 @@ my-portfolio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/codesiddhu/My-portfolio
 ```
 
-Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repository name.
 
 ### 2. Open the Project
 
 Navigate to the project directory:
 
 ```bash
-cd YOUR-REPOSITORY
+cd My-portfolio
 ```
 
 ### 3. Run the Website

@@ -35,7 +35,7 @@ my-portfolio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/codesiddhu/My-portfolio
 ```
 
 Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repository name.
@@ -45,7 +45,7 @@ Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repo
 Navigate to the project directory:
 
 ```bash
-cd YOUR-REPOSITORY
+cd My-portfolio
 ```
 
 ### 3. Run the Website
@@ -225,7 +225,7 @@ weather app/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/codesiddhu/Weather-App)
 ```
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
@@ -307,7 +307,7 @@ For production deployment, move API requests to a backend or serverless function
 
 ## 👨‍💻 Author
 
-**Developer:** Your Name
+**Developer:** Pasupuleti sreedhar 
 
 ## 📄 License
 

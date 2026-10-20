@@ -69,16 +69,14 @@ You can personalize this portfolio by:
 **Sreedhar Royal**
 
 - Email: [sreedharroyals632@gmail.com](mailto:sreedharroyals632@gmail.com)
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: (https://github.com/codesiddhu/my-Portfolio)
+- 
 
 ## 🌍 Deployment
 
 This portfolio can be deployed using:
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
+- [GitHub Pages]:  https://codesiddhu.github.io/my-Portfolio/
 
 ## 📄 License
 
